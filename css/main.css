@@ -1,0 +1,11 @@
+body {
+    /* font-family: "Noto Sans", sans-serif; */
+    font-family: Arial, sans-serif;
+    font-size: 2rem;
+
+    overflow: hidden;
+}
+
+i {
+    position: absolute;
+}
