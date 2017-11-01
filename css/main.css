@@ -1,6 +1,6 @@
 body {
     /* font-family: "Noto Sans", sans-serif; */
-    font-family: Arial, sans-serif;
+    font-family: sans-serif;
     font-size: 2rem;
 
     overflow: hidden;
@@ -12,6 +12,7 @@ i {
     cursor: default;
     position: absolute;
     transition: all 1s ease;
+    user-select: none;
 }
 
 i:hover {
