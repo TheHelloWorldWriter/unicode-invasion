@@ -4,8 +4,16 @@ body {
     font-size: 2rem;
 
     overflow: hidden;
+    padding: 0;
+    margin: 0;
 }
 
 i {
+    cursor: default;
     position: absolute;
+    transition: all 1s ease;
+}
+
+i:hover {
+    transform: scale(2.5);
 }
